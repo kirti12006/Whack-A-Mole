@@ -31,7 +31,9 @@ What I Learned
 - Track high scores  
 - Improve overall UI
 
-Preview
-<img src="game1.png" width="400">
-<br><br>
-<img src="game2.png" width="400"> 
+### Preview
+
+<p align="center">
+  <img src="game1.png" width="350">
+  <img src="game2.png" width="350">
+</p>
